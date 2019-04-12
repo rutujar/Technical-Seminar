@@ -1,3 +1,3 @@
 # Technical Seminar VTU
 
-## TOPIC: LANE CHNAGE INTENTION ESTIMATION FOR CAR FOLLOWING CONTROL IN AUTONOMOUS DRIVING
+## TOPIC: Lane change intention estimation for car following control in autonomous driving
